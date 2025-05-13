@@ -20,7 +20,7 @@ Follow these steps to set up and run the project locally:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/modern-store.git
+git clone https://github.com/sujoy-2811/modern-store
 cd modern-store/app
 ```
 
@@ -37,24 +37,3 @@ npm run dev
 ```
 
 The app will be running at [http://localhost:3000](http://localhost:3000) 🚀
-
----
-
-## 🛠️ Tech Stack
-
-- [React.js](https://reactjs.org/)
-- [Create React App](https://create-react-app.dev/)
-- [Tailwind CSS](https://tailwindcss.com/) _(optional, if used)_
-- [Node.js](https://nodejs.org/)
-
----
-
-## 🤝 Contributing
-
-Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.
-
----
-
----
-
-> Made with ❤️ for the Modern WORLD.

@@ -37,7 +37,7 @@ modern-store/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/modern-store.git
+git clone https://github.com/sujoy-2811/modern-store
 cd modern-store
 ```
 
