@@ -267,7 +267,7 @@ export default function Navigation() {
                 <Link to="/">
                   <span className="sr-only">Your Company</span>
                   <img
-                    src="hhttps://raw.githubusercontent.com/sujoy-2811/resources/refs/heads/main/shop.jpg"
+                    src="https://raw.githubusercontent.com/sujoy-2811/resources/refs/heads/main/shop.jpg"
                     alt="Shopwithsujoy"
                     className="h-8 w-8 mr-2"
                   />
