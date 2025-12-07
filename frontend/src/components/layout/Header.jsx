@@ -1,10 +1,11 @@
 import React from "react";
 import logo from "../.././/assets/images/store.png";
+import ProfileDropDown from "../comman/ProfileDropDown";
 
 const Header = () => {
   return (
     <header>
-      <div className="max-h-32 flex items-center justify-between px-4 border-2 border-white">
+      <div className=" border-2 border-black max-h-32 flex items-center justify-between px-4 ">
         {/* Logo */}
         <div>
           <a href="/" className="flex items-center gap-2">
@@ -24,7 +25,7 @@ const Header = () => {
         </div>
 
         {/* profile */}
-        <div></div>
+        <ProfileDropDown image="https://github.com/shadcn.png" />
       </div>
     </header>
   );
