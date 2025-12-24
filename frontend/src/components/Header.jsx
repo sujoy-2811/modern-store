@@ -1,6 +1,6 @@
 import React from "react";
-import logo from "../.././/assets/images/store.png";
-import ProfileDropDown from "../comman/ProfileDropDown";
+import logo from "../assets/images/store.png";
+import ProfileDropDown from "./comman/ProfileDropDown";
 
 const Header = () => {
   return (
